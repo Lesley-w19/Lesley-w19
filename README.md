@@ -1,18 +1,7 @@
 ## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" width="24px" alt="hi">, 
 
-[![wazimu.png](assets/projects/wazimu.png)](https://hb-wazimu.netlify.app)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
-
-<!-- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
-
-## Check out: -->
-
-[Firebase](https://wazimu-6cb19.web.app/) or [Netlify](https://hb-wazimu.netlify.app/) deployed portfolios.
-
-[Google](https://g.dev/hesbon-osoro)
-
-## I'm Hesbon aka Wazimu
+## I'm Lesley Wanjiku
 
 I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
 
@@ -22,25 +11,17 @@ simple and elegant solutions to every problem. I am seeking a position in a
 growth-oriented company where I can use my skills to the advantage of the
 company while having the scope to develop my skills. -->
 
-I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section.
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ### 📊 Monthly development breakdown
 
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 01 July 2022
 
-TypeScript   12 hrs 40 mins  █████████▒░░░░░░░░░░░░░░░   37.17 %
-JavaScript   10 hrs 2 mins   ███████▒░░░░░░░░░░░░░░░░░   29.46 %
-CSS          6 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-JSON         2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Bash         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
@@ -65,187 +46,6 @@ Bash         45 mins         ▓░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" />
 </p>
 
-<h2 id="sample-projects">Projects</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://restaurant-ecommerce.netlify.app/">
-          <img
-            width="300px"
-            src="assets/projects/restaurant.png"
-            alt="Restaurant E-commerce"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://restaurant-ecommerce.netlify.app/"
-          >Restaurant E-commerce site</a>
-          <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/restaurant">
-            <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>
-      <td>
-        <a href="https://hampi-tourism-site-hb.netlify.app/">
-          <img
-            width="300px"
-            src="assets/projects/hampi.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hampi-tourism-site-hb.netlify.app/"
-          >Tourism Hampi</a>
-           <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/tourism-hampi">
-            <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://video-app-hb.netlify.app/">
-          <img
-            src="assets/projects/video-app.png"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://video-app-hb.netlify.app/">Video App</a>
-        <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/video-app">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>
-      <td>
-        <a href="https://chat-app-merng.netlify.app/">
-          <img
-            src="assets/projects/chatapp.png"
-            width="300px"
-          />      
-      </td>
-      <td>
-        <a href="https://chat-app-merng.netlify.app/">Chat App</a>
-         </a>
-         <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/chat-app-merng-client">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>
-    </tr>
-    <td>
-      <a href="https://dating-site-frontend.netlify.app/">
-        <img
-          width="300px"
-          src="assets/projects/dating-app-frontend.png"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
-       </a>
-         <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/dating-app-frontend">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-    </td>
-    <td>
-      <a href="https://salad-hb.netlify.app/">
-        <img
-          width="300px"
-          src="assets/projects/salad.png"
-          alt="Salad site"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://salad-hb.netlify.app/">Salad site</a>
-       </a>
-         <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/salad">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-    </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://agency-site-hb.netlify.app/">
-          <img
-            width="300px"
-            src="assets/projects/agency-site.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://agency-site-hb.netlify.app">Agency Site</a>
-         </a>
-         <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/agency-site">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>
-      <td>
-        <a href="https://portfolio-hb.netlify.app/">
-          <img
-            width="300px"
-            src="assets/projects/portfolio-hb.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
-         </a>
-         <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/portfolio-hb">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>
-    </tr>
-     <tr>
-       <td>
-        <a href="https://recipes-homemade-hb.netlify.app/">
-          <img
-            width="300px"
-            src="assets/projects/recipes.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://recipes-homemade-hb.netlify.app/">Recipes Homemade</a>
-         </a>
-         <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/recipes-homemade">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>
-      <td>
-        <a href="https://messaging-app-frontend.web.app/">
-          <img src="assets/projects/messaging2.png" width="300px" />
-        </a>
-      </td>
-      <td>
-        <a href="https://messaging-app-frontend.web.app/">Messaging App</a>
-         </a>
-         <br />
-          <br />
-          <a href="https://github.com/hesbon-osoro/messaging-app-frontend">
-           <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>        
-    </tr>
-  </tbody>
-</table>
 
 <br />
 
@@ -280,156 +80,7 @@ Bash         45 mins         ▓░░░░░░░░░░░░░░░░
         >
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://www.codechef.com/certificates/verify">
-          <img
-            width="300px"
-            src="assets/certificates/snackdown2021.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.codechef.com/certificates/verify">Verify</a>
-        <p><b>Certificate ID:</b> 94a6f28</p>
-        <p><b>Username:</b> wazimu</p>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            src="assets/certificates/googlekickstart.png"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a
-          href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries"
-        >
-          <img
-            width="300px"
-            src="assets/certificates/freeCodeCamp frontend dev libs.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a
-          href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries"
-          >Verify</a
-        >
-      </td>
-      <td>
-        <a
-          href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures"
-        >
-          <img
-            src="assets/certificates/freeCodeCamp JADS certification.png"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a
-          href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures"
-          >Verify</a
-        >
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a
-          href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design"
-        >
-          <img
-            width="300px"
-            src="assets/certificates/freeCodeCamp RWD certification.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a
-          href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design"
-          >Verify</a
-        >
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            src="assets/certificates/devfest2021.png"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            width="300px"
-            src="assets/certificates/googleanalytics.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            width="300px"
-            src="assets/certificates/AWS practitioner.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>
-    </tr>
-    <tr>
-    <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            src="assets/certificates/hesbon-twd.png"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            src="assets/certificates/AWS Elastic Beanstalk(intro).png"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>
-    </tr>
-     <tr>
-    <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            src="assets/certificates/hourofcode.jpg"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://code.org/congrats?i=_1_18e783d40c7c6f10271c6612c21a4c65">Verify</a>
-      </td>
-     </tr>
+    
   </tbody>
 </table>
 </details>
@@ -449,7 +100,7 @@ Bash         45 mins         ▓░░░░░░░░░░░░░░░░
  <a href="mailto:hesbonosoro1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
-  <a href="https://t.me/hesbon-osoro">
+  <a href="https://t.me/Lesley-w19">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
  </a> &nbsp;&nbsp;
 </p>
@@ -458,10 +109,10 @@ Bash         45 mins         ▓░░░░░░░░░░░░░░░░
   <a href="https://twitter.com/wazimu_hb">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/hesbon-osoro">
+  <a href="https://github.com/Lesley-w19">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <a href="https://www.reddit.com/user/hesbon-osoro">
+ <a href="https://www.reddit.com/user/Lesley-w19">
   <img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
  </a>&nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UCgHKQfyNh8thOZtS4kfQG-A">
@@ -508,40 +159,40 @@ Bash         45 mins         ▓░░░░░░░░░░░░░░░░
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hesbon-osoro?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Lesley-w19?style=social)
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgHKQfyNh8thOZtS4kfQG-A?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/hesbon-osoro?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Lesley-w19?style=social)
 
-![GitHub User's stars](https://img.shields.io/github/stars/hesbon-osoro?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Lesley-w19?style=social)
 
-![GitHub watchers](https://img.shields.io/github/watchers/hesbon-osoro/hesbon-osoro?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Lesley-w19/Lesley-w19?style=social)
  -->
 
 ## Contribution Graph
 
 <p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=hesbon-osoro&theme=github" alt="wazimu" />
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Lesley-w19&theme=github" alt="wazimu" />
 </p>
 &nbsp;
 <br />
 
 ### 🏆 <!--My Trophies-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hesbon-osoro&theme=onedark&no-bg=false&count_private=true)](https://github.com/hesbon-osoro/hesbon-osoro)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lesley-w19&theme=onedark&no-bg=false&count_private=true)](https://github.com/Lesley-w19/Lesley-w19)
 
 <!--### Github Stats-->
 
-![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesbon-osoro&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesley-w19&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
 <!--### Github extra pins-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hesbon-osoro&repo=hesbon-osoro&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro&show_owner=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lesley-w19&repo=Lesley-w19&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19&show_owner=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbon-osoro&layout=compact&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesley-w19&layout=compact&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
-[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
+[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
 [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
 
@@ -553,6 +204,6 @@ Bash         45 mins         ▓░░░░░░░░░░░░░░░░
 
 ### Unique Views
 
-[![Image of https://github.com/hesbon-osoro/wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter)
+[![Image of https://github.com/Lesley-w19/wazimu-views-counter](https://github.com/Lesley-w19/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Lesley-w19/wazimu-views-counter)
 
-### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
+### Star my projects [here](https://github.com/Lesley-w19?tab=repositories)
