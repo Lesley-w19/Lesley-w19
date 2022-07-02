@@ -3,13 +3,11 @@
 
 ## I'm Lesley Wanjiku
 
-I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
-
-<!-- An avid programmer and fast learner. Obsessed with detail and quality.
+ An avid programmer and fast learner. Obsessed with detail and quality.
 Always trying to improve development and communication processes. I love
 simple and elegant solutions to every problem. I am seeking a position in a
 growth-oriented company where I can use my skills to the advantage of the
-company while having the scope to develop my skills. -->
+company while having the scope to develop my skills.
 
 
 #### Top Technologies
@@ -173,7 +171,7 @@ No activity tracked
 ## Contribution Graph
 
 <p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Lesley-w19&theme=github" alt="wazimu" />
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Lesley-w19&theme=github" alt="lesley" />
 </p>
 &nbsp;
 <br />
@@ -184,7 +182,7 @@ No activity tracked
 
 <!--### Github Stats-->
 
-![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesley-w19&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+![Lesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesley-w19&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
 <!--### Github extra pins-->
 
@@ -192,9 +190,9 @@ No activity tracked
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesley-w19&layout=compact&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
-[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
+[![Lesley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lesley&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
-[![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
+[![wakatime](https://wakatime.com/badge/user/a2f455f2-70fd-4eb2-a392-83b2149ee762.svg)](https://wakatime.com/@a2f455f2-70fd-4eb2-a392-83b2149ee762)
 
 <!--
 ### Profile Visits
@@ -204,6 +202,6 @@ No activity tracked
 
 ### Unique Views
 
-[![Image of https://github.com/Lesley-w19/wazimu-views-counter](https://github.com/Lesley-w19/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Lesley-w19/wazimu-views-counter)
+
 
 ### Star my projects [here](https://github.com/Lesley-w19?tab=repositories)
