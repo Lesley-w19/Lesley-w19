@@ -191,6 +191,9 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
 
 ![Lesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesley-w19&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lesley-w19&theme=dark" /></p>      
+
+
 <!--### Github extra pins-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lesley-w19&repo=Lesley-w19&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19&show_owner=true&count_private=true)
@@ -201,14 +204,13 @@ HTML         1 min           ▒░░░░░░░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/a2f455f2-70fd-4eb2-a392-83b2149ee762.svg)](https://wakatime.com/@a2f455f2-70fd-4eb2-a392-83b2149ee762)
 
-<!--
-### Profile Visits
+<p>
+  <a href="https://github.com/hesbon-osoro?tab=followers">
+    <img src="https://img.shields.io/github/followers/hesbon-osoro?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
- -->
-
-### Unique Views
-
+<!--### Unique Views-->
 
 
 ### Star my projects [here](https://github.com/Lesley-w19?tab=repositories)
