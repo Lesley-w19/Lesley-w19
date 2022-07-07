@@ -19,14 +19,14 @@ company while having the scope to develop my skills.
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 05 July 2022
+From: 06 June 2022 - To: 06 July 2022
 
-JavaScript   1 hr 1 min      ████████████░░░░░░░░░░░░░   48.33 %
-Markdown     46 mins         █████████▒░░░░░░░░░░░░░░░   36.83 %
-CSS          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-YAML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JavaScript   3 hrs 29 mins   ████████████████░░░░░░░░░   64.65 %
+CSS          52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Markdown     46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
