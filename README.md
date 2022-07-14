@@ -86,36 +86,36 @@ No activity tracked
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
-  <a href="https://www.linkedin.com/in/wazimu/">
+  <a href="https://www.linkedin.com/in/lesley-wanjiku/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/wazimu.hb">
+  <a href="https://instagram.com/lk_wanjiku">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <a href="https://wa.me/+254792496898">
+ <a href="https://wa.me/+254742820251">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>&nbsp;&nbsp;
- <a href="mailto:hesbonosoro1@gmail.com">
+ <a href="mailto:lesley.kamamo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
-  <a href="https://t.me/Lesley-w19">
+  <a href="https://t.me/wshiku">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
  </a> &nbsp;&nbsp;
 </p>
 
 <p align='center'>
-  <a href="https://twitter.com/wazimu_hb">
+  <a href="https://twitter.com/lesley_wanjiku">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Lesley-w19">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <a href="https://www.reddit.com/user/Lesley-w19">
+ <!-- <a href="https://www.reddit.com/user/Lesley-w19">
   <img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
  </a>&nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UCgHKQfyNh8thOZtS4kfQG-A">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
- </a>&nbsp;&nbsp;
+ </a>&nbsp;&nbsp; -->
 </p>
 
 <!-- <h1> Skills</h1>
@@ -193,12 +193,6 @@ No activity tracked
 [![Lesley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lesley&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
 [![wakatime](https://wakatime.com/badge/user/a2f455f2-70fd-4eb2-a392-83b2149ee762.svg)](https://wakatime.com/@a2f455f2-70fd-4eb2-a392-83b2149ee762)
-
-<!--
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
- -->
 
 ### Unique Views
 
