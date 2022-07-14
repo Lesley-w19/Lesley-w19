@@ -19,7 +19,14 @@ company while having the scope to develop my skills.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 June 2022 - To: 13 July 2022
+
+JavaScript   8 hrs 6 mins    ███████████████████░░░░░░   75.36 %
+CSS          59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Markdown     46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+HTML         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
@@ -184,6 +191,9 @@ No activity tracked
 
 ![Lesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesley-w19&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lesley-w19&theme=dark" /></p>      
+
+
 <!--### Github extra pins-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lesley-w19&repo=Lesley-w19&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19&show_owner=true&count_private=true)
@@ -195,7 +205,13 @@ No activity tracked
 [![wakatime](https://wakatime.com/badge/user/a2f455f2-70fd-4eb2-a392-83b2149ee762.svg)](https://wakatime.com/@a2f455f2-70fd-4eb2-a392-83b2149ee762)
 
 ### Unique Views
+<p>
+  <a href="https://github.com/Lesley-w19?tab=followers">
+    <img src="https://img.shields.io/github/followers/Lesley-w19?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
 
+<!--### Unique Views-->
 
 
 ### Star my projects [here](https://github.com/Lesley-w19?tab=repositories)
