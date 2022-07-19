@@ -19,7 +19,7 @@ company while having the scope to develop my skills.
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 June 2022 - To: 17 July 2022
+From: 18 June 2022 - To: 18 July 2022
 
 JavaScript   10 hrs 3 mins   ████████████████▒░░░░░░░░   65.78 %
 CSS          2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
