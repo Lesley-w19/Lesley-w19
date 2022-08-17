@@ -19,10 +19,10 @@ company while having the scope to develop my skills.
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 July 2022 - To: 15 August 2022
+From: 17 July 2022 - To: 16 August 2022
 
-HTML   2 hrs 19 mins   ████████████████████░░░░░   79.52 %
-CSS    35 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+HTML   1 hr 32 mins    ██████████████████░░░░░░░   71.94 %
+CSS    35 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 %
 ```
 
 <!--END_SECTION:waka-->
