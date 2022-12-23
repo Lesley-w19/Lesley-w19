@@ -1,16 +1,14 @@
-## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" width="24px" alt="hi">, 
+## Hi <img src="./assets/icons/wave.gif" height="24px" width="24px" alt="hi">, 
 
 
-## I'm Lesley Wanjiku
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Lesley+Wanjiku;Web+Developer!)](https://git.io/typing-svg)
 
 An avid programmer and fast learner. Obsessed with detail and quality.
 Always trying to improve development and communication processes. I love
-simple and elegant solutions to every problem. I am seeking a position in a
-growth-oriented company where I can use my skills to the advantage of the
-company while having the scope to develop my skills.
+simple and elegant solutions to every problem. I am seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my skills.
 
 
-#### Top Technologies
+## Top Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
@@ -49,8 +47,8 @@ CSS    35 mins         ███████░░░░░░░░░░░░
 
 
 <br />
-
-  <h2>Certifications</h2>  
+<!-- 
+<h2>Certifications</h2>
 <table>
   <tbody>
     <tr>
@@ -80,14 +78,12 @@ CSS    35 mins         ███████░░░░░░░░░░░░
           >Verify</a
         >
       </td>
-    </tr>
-    
+    </tr>    
   </tbody>
-</table>
-</details>
-</h2>
+</table> 
+-->
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
+<h3 align="center" style="margin-bottom: 20px;" >Let's Connect<img src="./assets/icons/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
   <a href="https://www.linkedin.com/in/lesley-wanjiku/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -173,11 +169,8 @@ CSS    35 mins         ███████░░░░░░░░░░░░
 
 ## Contribution Graph
 
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Lesley-w19&theme=github" alt="lesley" />
-</p>
-&nbsp;
-<br />
+[![Lesley's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lesley-w19&bg_color=121112&color=a8a4a7&line=1ca01f&point=dbe1dd&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 🏆 <!--My Trophies-->
 
@@ -200,14 +193,12 @@ CSS    35 mins         ███████░░░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/a2f455f2-70fd-4eb2-a392-83b2149ee762.svg)](https://wakatime.com/@a2f455f2-70fd-4eb2-a392-83b2149ee762)
 
-### Unique Views
+<!-- ### Repo Views -->
+
 <p>
   <a href="https://github.com/Lesley-w19?tab=followers">
     <img src="https://img.shields.io/github/followers/Lesley-w19?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
-
-<!--### Unique Views-->
-
 
 ### Star my projects [here](https://github.com/Lesley-w19?tab=repositories)
