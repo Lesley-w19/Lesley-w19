@@ -60,43 +60,6 @@ CSS    35 mins         ███████░░░░░░░░░░░░
 
 <br />
 
-<--!  <h2>Certifications</h2>  
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.hackerrank.com/certificates/229ef084f60a">
-          <img
-            width="300px"
-            src="assets/certificates/hackerrank js basic.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.hackerrank.com/certificates/229ef084f60a"
-          >Verify</a
-        >
-      </td>
-      <td>
-        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
-          <img
-            src="assets/certificates/Hackerrankproblemsolving.png"
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce"
-          >Verify</a
-        >
-      </td>
-    </tr>
-    
-  </tbody>
-</table>
-</details>
-</h2> -->
-
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
   <a href="https://www.linkedin.com/in/lesley-wanjiku/">
