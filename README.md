@@ -10,10 +10,12 @@ An analytical thinker and quick learner with a passion for uncovering insights t
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) 
 [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4479A1)](#) 
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Power BI Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#) 
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)](#)
 [![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft-excel&logoColor=217346)](#)
+
 
 
 ### 📊 Monthly development breakdown
@@ -32,7 +34,13 @@ CSS    35 mins         ███████░░░░░░░░░░░░
 ### Experience
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
@@ -43,16 +51,16 @@ CSS    35 mins         ███████░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40" />
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="JQuery" width="40" height="40" /> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+ 
   <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"  alt="PostgreSQL" width="40" /> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" />
 </p>
 
 
 <br />
 
-  <h2>Certifications</h2>  
+<--!  <h2>Certifications</h2>  
 <table>
   <tbody>
     <tr>
@@ -87,7 +95,7 @@ CSS    35 mins         ███████░░░░░░░░░░░░
   </tbody>
 </table>
 </details>
-</h2>
+</h2> -->
 
 <h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
