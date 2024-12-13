@@ -3,16 +3,18 @@
 
 ## I'm Lesley Wanjiku
 
-An avid programmer and fast learner. Obsessed with detail and quality.
-Always trying to improve development and communication processes. I love
-simple and elegant solutions to every problem. I am seeking a position in a
-growth-oriented company where I can use my skills to the advantage of the
-company while having the scope to develop my skills.
+An analytical thinker and quick learner with a passion for uncovering insights through data. Obsessed with accuracy and quality, I continuously strive to refine analytical processes and effectively communicate findings. I thrive on creating clear, data-driven solutions to complex problems. I am seeking a position in a growth-oriented company where I can leverage my skills in data analysis and visualization to drive strategic decisions while expanding my expertise in the field.
 
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) 
+[![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4479A1)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Power BI Badge](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=F2C811)](#) 
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)](#)
+[![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft-excel&logoColor=217346)](#)
+
 
 ### 📊 Monthly development breakdown
 
