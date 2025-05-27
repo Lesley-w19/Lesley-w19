@@ -18,19 +18,6 @@ An analytical thinker and quick learner with a passion for uncovering insights t
 
 
 
-### 📊 Monthly development breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-From: 19 July 2022 - To: 18 August 2022
-
-HTML   1 hr 32 mins    ██████████████████░░░░░░░   71.94 %
-CSS    35 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 %
-```
-
-<!--END_SECTION:waka-->
-
 ### Experience
 
 <p align="left">
