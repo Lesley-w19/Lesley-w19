@@ -131,18 +131,6 @@ An analytical thinker and quick learner with a passion for uncovering insights t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesley-w19&layout=compact&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
-[![Lesley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lesley&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
 [![wakatime](https://wakatime.com/badge/user/a2f455f2-70fd-4eb2-a392-83b2149ee762.svg)](https://wakatime.com/@a2f455f2-70fd-4eb2-a392-83b2149ee762)
 
-### Unique Views
-<p>
-  <a href="https://github.com/Lesley-w19?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lesley-w19?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-</p>
-
-<!--### Unique Views-->
-
-
-### Star my projects [here](https://github.com/Lesley-w19?tab=repositories)
