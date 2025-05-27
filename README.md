@@ -139,10 +139,6 @@ An analytical thinker and quick learner with a passion for uncovering insights t
 &nbsp;
 <br />
 
-### 🏆 <!--My Trophies-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lesley-w19&theme=onedark&no-bg=false&count_private=true)](https://github.com/Lesley-w19/Lesley-w19)
-
 <!--### Github Stats-->
 
 ![Lesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesley-w19&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
