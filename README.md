@@ -111,23 +111,23 @@ An analytical thinker and quick learner with a passion for uncovering insights t
  -->
 
 ## Contribution Graph
-
+<!--
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=Lesley-w19&theme=github" alt="lesley" />
 </p>
 &nbsp;
 <br />
-
+-->
 <!--### Github Stats-->
-
+<!--
 ![Lesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesley-w19&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lesley-w19&theme=dark" /></p>      
-
+-->
 
 <!--### Github extra pins-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lesley-w19&repo=Lesley-w19&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19&show_owner=true&count_private=true)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lesley-w19&repo=Lesley-w19&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19&show_owner=true&count_private=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lesley-w19&layout=compact&theme=dark&title_color=009933)](https://github.com/Lesley-w19/Lesley-w19)
 
